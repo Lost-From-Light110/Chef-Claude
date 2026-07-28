@@ -1,0 +1,21 @@
+.nav-items{
+  display: flex;
+  gap: 20px;
+  list-style: none;
+
+}
+
+.navbar{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px 20px;
+  background-color:var(--accent-bg);
+  color:white;
+}
+
+.facts{
+  text-align: left;
+}
+
+
